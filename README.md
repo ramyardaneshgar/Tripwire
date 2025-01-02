@@ -1,4 +1,4 @@
-### **Tripwire Proof of Concept: Writeup**
+### Tripwire: Proof of Concept 
 
 By Ramyar Daneshgar
 
