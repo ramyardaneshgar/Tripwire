@@ -1,9 +1,8 @@
 ### Tripwire: Proof of Concept 
 
-By Ramyar Daneshgar
-
-#### **Overview**
 Tripwire is a proof of concept for **Host Intrusion Detection System (HIDS)** designed to monitor file integrity in real-time. By leveraging **event-driven detection** and **SHA-256 hashing**, the system identifies unauthorized file modifications, additions, and deletions, providing immediate desktop alerts and maintaining comprehensive event logs for forensic analysis.
+
+By Ramyar Daneshgar
 
 ---
 
